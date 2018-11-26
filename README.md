@@ -8,10 +8,10 @@ thirpAPI lets you use two slash commands: /thirpAPIstats that show data related 
 # How to use the slash commands:
 | /thirpAPIstats options| Description 
 | ------ | ------ 
-| /thirpAPIstats | Show Macro usage and tickets data from your thirpAPI account. |
-| /thirpAPIstats usage | Show Macro usage from your thirpAPI account.
-| /thirpAPIstats tickets | Show tickets data from your thirpAPI account.
+| /thirpAPIstats | Show main and tickets data from your thirpAPI account. |
+| /thirpAPIstats u | Show main data from your thirpAPI account.
+| /thirpAPIstats t | Show tickets data from your thirpAPI account.
 
 | /thirpAPIsetreport| Description 
 | ------ | ------ 
-|/thirpAPIsetreport HH:MM  (where HH:MM is the time expressed on a 24 hour format, HH been hours and MM been minutes) | Show a daily report of  macro usage and ticket data on the channel where the command was issued on the specified hour.
+|/thirpAPIsetreport HH:MM  (where HH:MM is the time expressed on a 24 hour format, HH been hours and MM been minutes) | Show a daily report of all data
